@@ -9,3 +9,8 @@
 ## Технологии
 
 HTML, CSS и JavaScript.
+
+
+## Репозиторий
+
+https://github.com/xyzxyzm/posmotri-v-okno-ad
